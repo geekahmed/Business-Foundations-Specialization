@@ -1,4 +1,5 @@
 
+
 # Introduction to Marketing
 ## About this Course
 Taught by three of Wharton's top faculty in the marketing department, consistently ranked as the #1 marketing department in the world, this course covers three core topics in customer loyalty: branding, customer centricity, and practical, go-to-market strategies.
@@ -10,10 +11,10 @@ You’ll learn key principles in
 
 ## Table of Contents
 - [Week 1. BRANDING: Marketing Strategy and Brand Positioning](#Week-1-BRANDING-Marketing-Strategy-and-Brand-Positioning)
-- [Week 2. CUSTOMER CENTRICITY: The Limits of Product-Centric Thinking & The Opportunities and Challenges of Customer Centricity](#)
-- [Week 3. GO TO MARKET STRATEGIES: Communications Strategy & Fundamentals of Pricing](#)
-- [Week 4. BRANDING: Effective Brand Communications Strategies and Repositioning Strategies](#)
-- [Week 5. Applied Marketing](#)
+- [Week 2. CUSTOMER CENTRICITY: The Limits of Product-Centric Thinking & The Opportunities and Challenges of Customer Centricity](#Week-2-CUSTOMER-CENTRICITY-The-Limits-of-Product-Centric-Thinking-The-Opportunities-and-Challenges-of-Customer-Centricity)
+- [Week 3. GO TO MARKET STRATEGIES: Communications Strategy & Fundamentals of Pricing](#Week-3-GO-TO-MARKET-STRATEGIES-Communications-Strategy-Fundamentals-of-Pricing)
+- [Week 4. BRANDING: Effective Brand Communications Strategies and Repositioning Strategies](#Week-4-BRANDING-Effective-Brand-Communications-Strategies-and-Repositioning-Strategies)
+- [Week 5. Applied Marketing](#Week-5-Applied-Marketing)
 
 ## Notes
 
@@ -78,3 +79,12 @@ You’ll learn key principles in
 - Positioning should be clear and simple and focus on a few key benefits.
 - The position must be defensible, so you want to take a positioning that you own and that other people can't copy very easily.
 - The really important thing is you cannot be everything to everyone.
+
+### Week 2. CUSTOMER CENTRICITY: The Limits of Product-Centric Thinking & The Opportunities and Challenges of Customer Centricity
+- The Product-Centric approach elements:
+	- The goals of the firm is to maximize shareholder value.
+	- Maximum profits through volume and cost resuctions.
+	- Key performance indicators such as market share.
+	- Growth through extending the product.
+	- Product-oriented organizational structure.
+	- The competitve advantage: product expertise. 
